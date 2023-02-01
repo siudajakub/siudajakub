@@ -2,7 +2,6 @@
 - 🌱 I’m currently taking CS50x
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)My example:
 <img src=”https://komarev.com/ghpvc/?username=siudajakub" alt=”siudajakub” />
 
 <!---
