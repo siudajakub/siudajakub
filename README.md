@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @siudajakub
 - 🌱 I’m currently taking CS50x
 
-
-<img src=”https://komarev.com/ghpvc/?username=siudajakub" alt=”siudajakub” />
+![](https://komarev.com/ghpvc/?username=siudajakub)
 
 <!---
 siudajakub/siudajakub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
