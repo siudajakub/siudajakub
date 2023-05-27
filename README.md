@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @siudajakub
-- 🌱 I’m currently taking CS50x
 
 ![](https://komarev.com/ghpvc/?username=siudajakub)
 
