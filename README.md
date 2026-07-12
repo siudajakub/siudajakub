@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @siudajakub
+# Jakub Siuda
 
-![](https://komarev.com/ghpvc/?username=siudajakub)
+42 Warsaw student building AI products, hackathon projects and communities in Warsaw.
 
-<!---
-siudajakub/siudajakub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Selected work
+
+- [SkyMarshal C2](https://github.com/siudajakub/skymarshal-app) — multi-agency drone operations dispatcher; 1st place in the SpaceShield Hack 2026 Dual-Use track.
+- [Finance Flow](https://www.siuda.dev/projects/finance-flow/) — a personal-finance learning application; 3rd place in the Econverse 2026 national grand final.
+
+## Links
+
+[Portfolio](https://www.siuda.dev/) · [LinkedIn](https://www.linkedin.com/in/jksiuda/)
