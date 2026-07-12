@@ -1,7 +1,5 @@
 # Jakub Siuda
 
-<img src="https://www.siuda.dev/assets/img/jakub-siuda-portrait-16x9.jpg" alt="Portrait of Jakub Siuda in Warsaw" width="640">
-
 AI prototyper and 42 Warsaw student based in Warsaw. I build AI agents, internal tools and fast MVPs — turning ambiguous ideas into usable products.
 
 ## Selected work
