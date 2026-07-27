@@ -1,6 +1,6 @@
 # Jakub Siuda
 
-AI prototyper and 42 Warsaw student based in Warsaw. I build AI agents, internal tools and fast MVPs — turning ambiguous ideas into usable products.
+AI prototyper and 42 Warsaw student based in Warsaw. I build AI agents, internal tools and fast MVPs, turning ambiguous ideas into usable products.
 
 ## Selected work
 
