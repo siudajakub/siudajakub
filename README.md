@@ -1,6 +1,8 @@
 # Jakub Siuda
 
-AI prototyper and 42 Warsaw student based in Warsaw. I build AI agents, internal tools and fast MVPs, turning ambiguous ideas into usable products.
+I'm Jakub Siuda, a developer based in Warsaw. I build web apps, AI agents and developer tools.
+
+Currently working at SiteScope and studying at 42 Warsaw.
 
 ## Selected work
 
