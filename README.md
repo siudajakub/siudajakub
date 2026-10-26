@@ -2,7 +2,7 @@
 
 I'm Jakub Siuda, a developer based in Warsaw. I build web apps, AI agents and developer tools.
 
-Currently working at SiteScope and studying at 42 Warsaw.
+Currently working at Sitescope and studying at 42 Warsaw.
 
 ## Selected work
 
